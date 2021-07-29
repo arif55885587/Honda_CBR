@@ -1,0 +1,118 @@
+/* First section  */
+
+.bg-color{
+     background-color:#264653 ;
+}
+.honda{
+     font-family: 'Poppins', sans-serif;
+}
+
+.login{
+     width: 91px;
+     height: 44px;
+     padding: 10px 24px;
+     background-color: #E76F51;
+     border-radius: 5px;
+     text-decoration:none;
+     
+}
+.btns{
+     width: 168px;
+     height: 44px;
+     background: #E76F51;
+     border-radius: 5px; 
+     padding: 10px 24px;
+     text-decoration: none;
+}
+
+/* Main section  */
+
+ /* first section  */
+
+.margin{
+     margin-top: 100px;
+}
+.margins{
+     margin-top: 150px;
+}
+.card{
+     box-shadow:0px 0px 4px rgba(0, 0, 0, 0.15); 
+     border-radius: 5px;
+     margin: 0px 20px;
+}
+.card-title{
+     font-family: 'Poppins', sans-serif;
+     margin-top: 20px;
+}
+.read-more{
+     color: white;
+     background-color: #fa300caf;
+     padding: 10px 24px;
+     border-radius: 5px;
+    
+}
+.read-more2{
+     color: rgba(223, 65, 37, 0.747);
+     border: 2px solid rgba(223, 65, 37, 0.747);
+     padding: 10px 24px;
+     border-radius: 5px;
+     
+}
+
+/* second section  */
+
+.gray{
+     filter: grayscale(100%);
+}
+
+/* third section  */
+
+.text-center{
+     font-family: 'Poppins', sans-serif;
+}
+.client{
+     color: rgba(253, 50, 14, 0.863);
+     
+}
+.images{
+    
+     height: 149px;
+     width: 149px;
+    
+     
+}
+.image{
+     height: 149px;
+     width: 149px;
+     border-radius: 50%;
+}
+.fa-star{
+     color: rgba(223, 54, 24, 0.822);
+}
+.text-color{
+     color: #1589FF;
+     font-family: 'Poppins', sans-serif;
+}
+.banker{
+     font-family: 'Poppins', sans-serif;
+}
+     
+     /* extra part  */
+
+     .poppins{
+          font-family: 'Poppins', sans-serif; 
+          text-align: center;
+     }
+.bangla{
+     color: darkgreen;
+}
+.desh{
+     color: darkred;
+}
+.royal{
+     color: deeppink;
+} 
+
+/* footer  */
+
+
